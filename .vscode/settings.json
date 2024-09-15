@@ -1,0 +1,16 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.foreground": "#76E5CF",
+    "activityBar.background": "#000000",
+    "activityBar.inactiveForeground": "#00662E",
+    "activityBarBadge.foreground": "#00132A",
+    "activityBarBadge.background": "#71B0FF",
+    "statusBar.foreground": "#9EF7FF",
+    "statusBar.background": "#157780",
+    "statusBarItem.hoverBackground": "#244C6D",
+    "statusBarItem.remoteForeground": "#E6EBFF",
+    "statusBarItem.remoteBackground": "#4157B0",
+    "statusBar.debuggingForeground": "#000303",
+    "statusBar.debuggingBackground": "#4CADB6"
+  }
+}
